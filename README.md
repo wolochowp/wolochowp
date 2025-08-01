@@ -28,7 +28,7 @@ Check them out (I still don't believe it): [My LinkedIn Certifications](https://
 This is my personal **chaos-as-code** collection:
 
 - 🐍 **Python scripts** –  Python scripts that might work *(not yet, I’m too lazy to learn it)*
-- 🧩 **Unusable Ansible roles** – *Wow, something actually exists here!*
+- 🧩 **Ansible roles** – *Wow, something actually exists here!*
 - 🐚 **Bash scripts** – Shell commands that fix one thing and break three others *(also not yet, but the intention is strong)*
 - 🛠️ **Random configs, YAMLs, and deeply cursed hacks** - Mysterious files that might summon either infrastructure or demons *(under construction... or destruction?)*
 

@@ -1,73 +1,77 @@
 # 👋 Hi, I'm Paweł Wołochow
 
-> *Entry-Level Junior Intern Associate Trainee Sysadmin Administrator (with coffee-making responsibilities)* ☕🖥️
+> *Linux & Cloud Sysadmin | Automation Enthusiast | Chaos-as-Code Practitioner* ⚙️☁️
 
 ---
 
-I became an admin because I was too dumb to become a programmer.  
-Now I automate things I don’t understand... and call it *infrastructure as mystery*. 🤷‍♂️
+## 🧑‍💻 About Me
 
-Despite that, somehow I collected a bunch of certs that look impressive until you ask me what they actually mean:
+I started my IT career as an **IT systems operator with helpdesk responsibilities**, fixing printers, user accounts, and anything else people threw at me.
+Eventually, I became a **Linux administrator**, where I had to learn (very quickly) everything that comes with it: automation, networking, virtualization, containers, and cloud.
 
-### 🧾 My List of Certifications (a.k.a. how did I pass these?!)
+My interests aren’t locked into one platform or dogma. I don’t play *Linux vs Windows vs macOS* wars — I just pick the right tool for the job.
+That’s why in my repos you’ll find not only Linux-focused projects but also experiments from other corners of IT.
+
+I like to keep a humorous twist in how I present myself, but the real goal is:
+👉 **to build systems and tools that are stable, usable, and worth reusing.**
+
+---
+
+## 🧾 Certifications (a.k.a. how did I pass these?!)
 
 - 📦 **Red Hat® Certified System Administrator (RHCSA®)** – I think I clicked the right answers?
 - 📦 **Red Hat Certified Specialist in OpenShift Virtualization** – VMs inside containers inside VMs?? Sure, why not.
-- ☁️ **AWS Certified SysOps Administrator – Associate** - yes, I passed it... somehow
-- ☁️ **AWS Certified Cloud Practitioner**  - cloud basics, still a mystery
-- ☸️  ☸️ **KCSA, KCNA, CKA, CKAD** – I know `kubectl get pods`.
-- 🔐 **HashiCorp Certified: Vault Associate (002)** (secrets, about secrets, secretly)
-- 🌍 **HashiCorp Certified: Terraform Associate (003)** (IaC? More like WtF-as-Code)
+- ☁️ **AWS Certified SysOps Administrator – Associate** – Yes, I passed it… somehow.
+- ☁️ **AWS Certified Cloud Practitioner** – Cloud basics, still a mystery.
+- ☸️ **KCSA, KCNA, CKA, CKAD** – I know `kubectl get pods`.
+- 🔐 **HashiCorp Certified: Vault Associate (002)** – Secrets, about secrets, secretly.
+- 🌍 **HashiCorp Certified: Terraform Associate (003)** – IaC? More like WtF-as-Code.
 
-Check them out (I still don't believe it): [My LinkedIn Certifications](https://www.linkedin.com/in/pawel-wolochow/details/certifications/)
-
----
-
-## 🤖 What’s this GitHub account for?
-
-This is my personal **chaos-as-code** collection:
-
-- 🐍 **Python scripts** –  Python scripts that might work *(not yet, I’m too lazy to learn it)*
-- 🧩 **Ansible roles** – *Wow, something actually exists here!*
-- 🐚 **Bash scripts** – Shell commands that fix one thing and break three others *(also not yet, but the intention is strong)*
-- 🛠️ **Random configs, YAMLs, and deeply cursed hacks** - Mysterious files that might summon either infrastructure or demons *(under construction... or destruction?)*
-
-> I made it. I pushed it. I forgot it.  
-> If it works, call it magic. If not, call it normal.
-> Feel free to **copy**, **fork**, or just **laugh and run away**.
+👉 [Full certification list on LinkedIn](https://www.linkedin.com/in/pawel-wolochow/details/certifications/)
 
 ---
 
-## 🙃 Goals?
+## 📦 Featured Projects
 
-- Keep pretending to be a sysadmin  
-- Confuse future me with my own code  
-- Embrace the impostor syndrome  
-- Reboot routers until I feel useful  
-- Fix production by breaking staging first  
-- Automate things I should probably do manually 
+Some of the work I’ve been putting into practice and sharing here:
 
----
-
-## ⚠️ Breaking News
-
-Using anything from this repo might:
-
-- Break your system  
-- Break your company  
-- Break your soul   
-
-**Use at your own risk. No refunds. No regrets.**
+- 🔑 **mikrotik_sshkeyinstall** – Ansible role to install and manage SSH keys on MikroTik devices
+- 💾 **mikrotik_backup** – Automated and idempotent MikroTik backups (.backup and .rsc formats)
+- 🏗️ **hashivault_deploy** – Modular Ansible role for installing and bootstrapping HashiCorp Vault clusters
+- ⚙️ **(Work in Progress)** – More Ansible roles, Python scripts, and automation utilities
 
 ---
 
-## 📫 Reach me... if you dare:
+## 🎯 My Focus
 
-**Paweł Wołochow**  
-📧 wolochowp@gmail.com  
+- Linux system administration & automation
+- Infrastructure-as-Code (Terraform, Ansible)
+- Kubernetes & containerization
+- Cloud services (AWS, hybrid setups)
+- Secrets & security management (Vault, SSH, PKI)
+- Staying curious across IT domains
+
+---
+
+## ⚠️ Disclaimer
+
+This repo may contain:
+
+- Stable and reusable automation (hopefully)
+- Random experiments that may break your system
+- Strange configs that should probably stay in staging
+
+**Use responsibly.**
+
+---
+
+## 📫 Contact
+
+**Paweł Wołochow**
+📧 wolochowp@gmail.com
 🔗 [LinkedIn](https://www.linkedin.com/in/pawel-wolochow)
 
 ---
 
-**Disclaimer:** Any resemblance to a real sysadmin is purely accidental.  
-**Fun fact:** If anything here actually helps you, I’m as shocked as you are.
+⭐ Fun twist aside, my intent here is simple:
+**share what I learn, keep it stable, and improve along the way.**
